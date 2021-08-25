@@ -1,10 +1,10 @@
 # CG.Blazor.Forms._Syncfusion: 
 
 ---
-[![Build Status](https://dev.azure.com/codegator/CG.Blazor.Forms._Syncfusion/_apis/build/status/CodeGator.CG.Blazor.Forms._Syncfusion?branchName=main)](https://dev.azure.com/codegator/CG.Blazor.Forms._Syncfusion/_build/latest?definitionId=72&branchName=main)
+[![Build Status](https://dev.azure.com/codegator/CG.Blazor.Forms._Syncfusion/_apis/build/status/CodeGator.CG.Blazor.Forms._Syncfusion?branchName=main)](https://dev.azure.com/codegator/CG.Blazor.Forms._Syncfusion/_build/latest?definitionId=76&branchName=main)
 [![Github docs](https://img.shields.io/static/v1?label=Documentation&message=online&color=blue)](https://codegator.github.io/CG.Blazor.Forms._Syncfusion/index.html)
 [![NuGet downloads](https://img.shields.io/nuget/dt/CG.Blazor.Forms._Syncfusion.svg?style=flat)](https://nuget.org/packages/CG.Blazor.Forms._Syncfusion)
-![Azure DevOps coverage](https://img.shields.io/azure-devops/coverage/codegator/CG.Blazor.Forms._Syncfusion/72)
+![Azure DevOps coverage](https://img.shields.io/azure-devops/coverage/codegator/CG.Blazor.Forms._Syncfusion/76)
 [![Github discussion](https://img.shields.io/badge/Discussion-online-blue)](https://github.com/CodeGator/CG.Blazor.Forms._Syncfusion/discussions)
 [![CG.Blazor.Forms._Syncfusion on fuget.org](https://www.fuget.org/packages/CG.Blazor.Forms._Syncfusion/badge.svg)](https://www.fuget.org/packages/CG.Blazor.Forms._Syncfusion)
 
@@ -51,26 +51,28 @@ Steps to get started:
 
 1. Create a Blazor project to get started.
 
-2. Add the CG.Blazor.Forms._Syncfusion NUGET package to the project.
+2. Add support for Syncfusion Blazor. [HERE](https://blazor.syncfusion.com/documentation/getting-started/blazor-server-side-visual-studio-2019) are instructions for doing that.
 
-3. Add `@using CG.Blazor.Forms.Attributes` to the _Imports.razor file.
+3. Add the CG.Blazor.Forms._Syncfusion NUGET package to the project.
 
-4. Add `<DynamicForm Model="@Model" OnValidSubmit="OnValidSubmit"/>` to the razor component where you want your dynamic form generated. Note that `Model` is a reference to your POCO object, and `OnValidSubmit` is a reference to your form's submit handler.
+4. Add `@using CG.Blazor.Forms.Attributes` to the _Imports.razor file.
 
-5. Add `services.AddFormGeneration();` to the `ConfigureServices` method of the `Startup` class.
+5. Add `<DynamicForm Model="@Model" OnValidSubmit="OnValidSubmit"/>` to the razor component where you want your dynamic form generated. Note that `Model` is a reference to your POCO object, and `OnValidSubmit` is a reference to your form's submit handler.
 
-6. Create your model type. Use attributes from the NUGET package to decorate any properties you want to be rendered on the form. Here is an example:
+6. Add `services.AddFormGeneration();` to the `ConfigureServices` method of the `Startup` class.
+
+7. Create your model type. Use attributes from the NUGET package to decorate any properties you want to be rendered on the form. Here is an example:
 
 ```
 [RenderValidationSummary()]
 [RenderFluentValidationValidator]
 public class MyForm
 {
-	[RenderInputText]
+	[RenderSfTextBox]
 	[Required]
 	public string FirstName { get; set; }
 
-	[RenderInputText]
+	[RenderSfTextBox]
 	[Required]
 	public string LastName { get; set; }
 }

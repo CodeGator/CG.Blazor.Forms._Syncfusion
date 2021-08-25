@@ -1,0 +1,308 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/a/1/s/docfx",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Blazor.Forms.Attributes.RenderSfCheckBoxAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Blazor.Forms.Attributes.RenderSfCheckBoxAttribute.html",
+          "hash": "2EV6y153tqEkja4gFJbUaByXjNE3mKq7/VSARuxNvIo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Blazor.Forms.Attributes.RenderSfColorPickerAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Blazor.Forms.Attributes.RenderSfColorPickerAttribute.html",
+          "hash": "FkRBbww/UhCtKJOGP8cOh5j2yGgKv/airtdtbm3Tfps="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Blazor.Forms.Attributes.RenderSfComboBoxAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Blazor.Forms.Attributes.RenderSfComboBoxAttribute.html",
+          "hash": "YZGGiyvAnpuKSDB5KP5nvdOmBCuAMa6zW44QXm/EHWQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Blazor.Forms.Attributes.RenderSfDatePickerAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Blazor.Forms.Attributes.RenderSfDatePickerAttribute.html",
+          "hash": "TNY331eC14YoM+hyuwB8OEKuEt0IEhEbUyilRCzj21c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Blazor.Forms.Attributes.RenderSfNumericTextBoxAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Blazor.Forms.Attributes.RenderSfNumericTextBoxAttribute.html",
+          "hash": "h9PBpqMRe8IWXNOEMnrdC2pK8/Re+f+SwPeZxifPipo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Blazor.Forms.Attributes.RenderSfRadioGroupAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Blazor.Forms.Attributes.RenderSfRadioGroupAttribute.html",
+          "hash": "4llqW/gRXRfD2D9+NCaOwbPvUsh2/7pQ3arCn+d5pmg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Blazor.Forms.Attributes.RenderSfSliderAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Blazor.Forms.Attributes.RenderSfSliderAttribute.html",
+          "hash": "6WvaEnTH2x8M2xFIIiiCTvLRKhEMlfY3vE+PXSUjMUQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Blazor.Forms.Attributes.RenderSfTextBoxAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Blazor.Forms.Attributes.RenderSfTextBoxAttribute.html",
+          "hash": "Ma8QEOKPC9laCic05JkiHF6Kct628gIp29WrqHFZPbM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Blazor.Forms.Attributes.RenderSfTimePickerAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Blazor.Forms.Attributes.RenderSfTimePickerAttribute.html",
+          "hash": "TBvl2BCfysd5BjxACM4X/w4xOHwtjVpvW0IrqAVCbkg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Blazor.Forms.Attributes.SyncfusionAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Blazor.Forms.Attributes.SyncfusionAttribute.html",
+          "hash": "+vyJOGAKZxzI0LMCsHNndItqp0qFxYDs11J1hNY1DUw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CG.Blazor.Forms.Attributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CG.Blazor.Forms.Attributes.html",
+          "hash": "k8RlWvLrpqgMuFmKrdQDKL0UT+y6ADF4gqTNkYeDrcs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "K7hXZ4wZ2T/LTiBbtwFREB7vGT1LUepmxkvYmSQDJtU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "exVg0miKSxAhrPsdEyYD3hCZPw//Hl1E+jJuAm1qqq4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "BlPxk5mtl2kgfcZUgkEguqiSAR/EUyUTT4EdebwkQvs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/codegator-167x79.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/codegator-167x79.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/codegator-334x158.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/codegator-334x158.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/codegator-500x236.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/codegator-500x236.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/codegator-667x315.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/codegator-667x315.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "nXAgtoHr4nirBDlCRPZip7obW/KBQcB9kBDnNdc43xA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "rnAz5mZcLA+Jv3V7JY4s6mRl6shFzPScWm4IJGcVjXk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 11,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

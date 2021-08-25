@@ -3,6 +3,8 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>CG.Blazor.Forms</RootNamespace>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <DocumentationFile>bin\Debug\net5.0\CG.Blazor.Forms._Syncfusion.xml</DocumentationFile>
   </PropertyGroup>
 
   

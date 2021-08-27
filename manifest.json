@@ -18,7 +18,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Blazor.Forms.Attributes.RenderSfCheckBoxAttribute.html",
-          "hash": "2EV6y153tqEkja4gFJbUaByXjNE3mKq7/VSARuxNvIo="
+          "hash": "Pb/dBt76cQ35+inNCxr0uAYpeJAJE6snFYu2aiVqaGc="
         }
       },
       "is_incremental": false,
@@ -42,7 +42,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Blazor.Forms.Attributes.RenderSfComboBoxAttribute.html",
-          "hash": "YZGGiyvAnpuKSDB5KP5nvdOmBCuAMa6zW44QXm/EHWQ="
+          "hash": "ZJx4vHWsI1/DcScQRA5R0rU3OY3Eoqp7fKqyYjpnbEY="
         }
       },
       "is_incremental": false,
@@ -54,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Blazor.Forms.Attributes.RenderSfDatePickerAttribute.html",
-          "hash": "48NY/U99u5cYDwoJtaXc65FVJfGe88ZmynQxTjM2hOQ="
+          "hash": "p1CAkxQ43i23a/tXStHMXsqtxElJcurtJ430iphdHv8="
         }
       },
       "is_incremental": false,
@@ -66,7 +66,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Blazor.Forms.Attributes.RenderSfNumericTextBoxAttribute.html",
-          "hash": "h9PBpqMRe8IWXNOEMnrdC2pK8/Re+f+SwPeZxifPipo="
+          "hash": "3BnICMiIyXcDFccFormgF5UKNbaHbBnLD3NQ3S/SsN4="
         }
       },
       "is_incremental": false,
@@ -102,7 +102,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Blazor.Forms.Attributes.RenderSfTextBoxAttribute.html",
-          "hash": "Ma8QEOKPC9laCic05JkiHF6Kct628gIp29WrqHFZPbM="
+          "hash": "OrPPHDpNLaX2dLMpeNPZnns/AdGe6qKwNi+j5EMp7yc="
         }
       },
       "is_incremental": false,
@@ -114,7 +114,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Blazor.Forms.Attributes.RenderSfTimePickerAttribute.html",
-          "hash": "2XT197lzK9/DLYUZFJL0DdUv3rwBISWXTg0cLZ+7P4E="
+          "hash": "kMLB0xwoiFqL9DA+EJFEScKaL9BCDkVMgIDOni8PxW4="
         }
       },
       "is_incremental": false,
@@ -138,7 +138,7 @@
       "output": {
         ".html": {
           "relative_path": "api/CG.Blazor.Forms.Attributes.html",
-          "hash": "AQsk74FouitaHOHIy5sL6CjAQTk1Z028THhX3bcxS1c="
+          "hash": "G9bMhwht+k1oq4zq+ySg/IvNZCuVwXalRZi/Up8bX5w="
         }
       },
       "is_incremental": false,

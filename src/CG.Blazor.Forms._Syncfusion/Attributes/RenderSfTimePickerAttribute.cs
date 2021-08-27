@@ -14,13 +14,13 @@ using Syncfusion.Blazor.Inputs;
 namespace CG.Blazor.Forms.Attributes
 {
     /// <summary>
-    /// This class is an attribute that, when applied to a <see cref="DateTime?"/> property, 
+    /// This class is an attribute that, when applied to a <see cref="Nullable{DateTime}"/> property, 
     /// causes the form generator to render the property as a <see cref="SfTimePicker{T}"/> 
     /// component.
     /// </summary>
     /// <remarks>
     /// <para>
-    /// This attribute is only valid when placed on a property of type: <see cref="DateTime?"/>.
+    /// This attribute is only valid when placed on a property of type: <see cref="Nullable{DateTime}"/>.
     /// </para>
     /// </remarks>
     /// <example>
@@ -78,15 +78,7 @@ namespace CG.Blazor.Forms.Attributes
 
         /// <summary>
         /// This property specifies the floating label behavior of the TimePicker  that 
-        /// the placeholder text floats above the TimePicker based on the following values.
-        /// <list type="bullet">
-        /// <listheader>Possible values are:</listheader>
-        /// <item>NeverNever floats the label in the TimePicker when the placeholder 
-        /// is available.</item>
-        /// <item>AlwaysThe floating label always floats above the TimePicker.</item>
-        /// <item>AutoThe floating label floats above the TimePicker after focusing 
-        /// it or when enters the value in it.</item>
-        /// list>
+        /// the placeholder text floats above the TimePicker.
         /// </summary>
         public FloatLabelType FloatLabelType { get; set; }
 

@@ -100,15 +100,7 @@ namespace CG.Blazor.Forms.Attributes
 
         /// <summary>
         /// This property specifies the floating label behavior of the TextBox that 
-        /// the placeholder text floats above the TextBox based on the following values.
-        /// <list type="bullet">
-        /// <listheader>Possible values are:</listheader>
-        /// <item>NeverNever floats the label in the TextBox when the placeholder 
-        /// is available.</item>
-        /// <item>AlwaysThe floating label always floats above the TextBox.</item>
-        /// <item>AutoThe floating label floats above the TextBox after focusing 
-        /// it or when enters the value in it.</item>
-        /// list>
+        /// the placeholder text floats above the ComboBox.
         /// </summary>
         public FloatLabelType FloatLabelType { get; set; }
 

@@ -14,7 +14,7 @@ namespace CG.Blazor.Forms.Attributes
 {
     /// <summary>
     /// This class is an attribute that, when applied to a <see cref="bool"/> property, 
-    /// causes the form generator to render the property as a <see cref="SfCheckBox"/> 
+    /// causes the form generator to render the property as a <see cref="SfCheckBox{T}"/> 
     /// component.
     /// </summary>
     /// <remarks>
@@ -23,7 +23,7 @@ namespace CG.Blazor.Forms.Attributes
     /// </para>
     /// </remarks>
     /// <example>
-    /// Here is an example of decorating a model property to render a  <see cref="SfCheckBox"/>:
+    /// Here is an example of decorating a model property to render a  <see cref="SfCheckBox{T}"/>:
     /// <code>
     /// using CG.Blazor.Forms.Attributes;
     /// class MyModel

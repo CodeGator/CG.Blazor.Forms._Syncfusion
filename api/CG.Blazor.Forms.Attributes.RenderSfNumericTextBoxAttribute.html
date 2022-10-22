@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width">
     <meta name="title" content="Class RenderSfNumericTextBoxAttribute
    ">
-    <meta name="generator" content="docfx 2.58.9.0">
+    <meta name="generator" content="docfx 2.59.4.0">
     
     <link rel="shortcut icon" href="../favicon.ico">
     <link rel="stylesheet" href="../styles/docfx.vendor.css">
@@ -770,7 +770,11 @@ for the NumericTextBox.</p>
   <h4 id="CG_Blazor_Forms_Attributes_RenderSfNumericTextBoxAttribute_StrictMode" data-uid="CG.Blazor.Forms.Attributes.RenderSfNumericTextBoxAttribute.StrictMode">StrictMode</h4>
   <div class="markdown level1 summary"><p>This property specifies a value that indicates whether the
 NumericTextBox component allows the value for the specified range.</p>
-<ul><li></li><li></li></ul>
+<ul><li>True - the input value will be restricted between the min and 
+max range.The typed value gets modified to fit the range on a focused 
+out state.</li><li>False - it allows any value even out of range value, at that time 
+of wrong value entered, the error class will be added to the component 
+to highlight the error.</li></ul>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
